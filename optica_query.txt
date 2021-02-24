@@ -1,0 +1,4 @@
+Ulleres venudes pel treballador amb id = 1:
+
+SELECT * FROM cul_ampolla.ulleres
+WHERE employees_employee_id = 1;
